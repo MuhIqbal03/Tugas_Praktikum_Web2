@@ -1,0 +1,16 @@
+.container {
+    background-color: rgb(163, 188, 221);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+
+.container table {
+    
+    margin-top: 20px;
+}
