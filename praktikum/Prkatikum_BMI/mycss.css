@@ -1,0 +1,20 @@
+body{
+    padding: 20px 20%;
+
+}
+form{
+    padding: 10px 20px;
+    background-color: #f5f5f5;
+    border:solid thin #EEE;
+
+}
+input, select {
+    padding: 6px 12px;
+}
+.hasil {
+padding: 10px 20px;
+background-color: rgb(25, 84, 133);
+color: #FFF;
+border:solid thin rgb(25, 84, 133);
+
+}
